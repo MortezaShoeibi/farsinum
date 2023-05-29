@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(251, 243, 233);
+}
+
+pre {
+    white-space: pre-wrap;
+    word-wrap: break-all;
+    text-align: justify;
+    background-color: rgb(252, 249, 246);
+    margin: 10px 10px 10px 10px;
+    font-size: 12pt;
+    font-family: monospace;
+}
+
+span.author {
+    font-size: 10pt;
+}
+
+.page-title {
+    text-shadow: 2px 1px 0px #ff0000;
+    margin: 20px 10px 10px 10px;
+}
+
+.content {
+    font-size: 16pt;
+}
+
+.github {
+    color: black;
+}
+
+.github:hover {
+    color: rgb(68, 70, 85);
+}
+
+.try {
+    margin: 20px 20px 10px 10px;
+}
+
+#result-box {
+    text-align: center;
+    margin: 10px 10px 10px 10px;
+    font-size: 16pt;
+    background-color: rgb(252, 249, 246);
+}
