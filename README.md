@@ -1,6 +1,6 @@
 # Farsi num
 
-A Django REST framework based API to convert Latin numbers to Persian(Farsi) text.
+A Django REST framework based API to convert numbers from digits to a Persian(Farsi) text format.
 
 # Usage
 
