@@ -38,7 +38,7 @@ def number_validator(number: str | int | float) -> bool:
             return False
         
     if '-' in number:
-        if number.index('-') != 0 :
+        if number.index('-') != 0:
             return False
         
     return False if (len(number.split('.')) - 1) > 1 else True
